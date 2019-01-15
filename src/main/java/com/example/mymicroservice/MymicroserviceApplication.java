@@ -8,7 +8,6 @@ public class MymicroserviceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MymicroserviceApplication.class, args);
-		System.out.println("test");
+		System.out.println("MSA class");
 	}
-
 }
